@@ -1,7 +1,14 @@
-# TypeScript Next.js template
+# flair.hr Pricing Plans 
 
 ## Preview
 
-Preview live on [StackBlitz](http://stackblitz.com/):
+Preview live on [Vercel](https://flairhr-pricing-plans.vercel.app/):
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-typescript)
+### Features
+
+- **getStaticProps for pricing data**.
+- **Button hover animation**.
+- **Tooltip on hover**.
+- **Responsive**.
+
+##### Built with TypeScript Next.js Template
