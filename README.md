@@ -11,4 +11,4 @@ Preview live on [Vercel](https://flairhr-pricing-plans.vercel.app/):
 - **Tooltip on hover**.
 - **Responsive**.
 
-#### Built with TypeScript Next.js Template
+##### Built with TypeScript Next.js Template
