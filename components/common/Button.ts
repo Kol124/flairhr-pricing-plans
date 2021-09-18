@@ -12,7 +12,7 @@ export const Button = styled.button`
   background-color: #1388c9;
   text-decoration: none;
   transition: all 0.2s;
-  margin: 20px 0 12px;
+  margin: 30px 0 12px;
   padding: 15px 20px;
   cursor: pointer;
   border: none;
